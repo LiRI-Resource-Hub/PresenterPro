@@ -21,7 +21,7 @@ This short **[video](https://www.youtube.com/watch?v=fjlFNOzfdPo)** produced by 
   **Note**: if using this method, the plugin folder should not be moved somewhere else after executing the script, otherwise it couldn’t be found next time. Therefore highly recommend to use method 1.
 
 <div style="text-align: center;">
-  <a href="Praat_entry.png">
+  <a href="./images/Praat_objects_PresenterPro.png">
     <img src="./images/Praat_objects_PresenterPro.png" alt="Entry of PresenterPro in Praat." width="500"/>
   </a>
 </div>
@@ -30,9 +30,7 @@ This short **[video](https://www.youtube.com/watch?v=fjlFNOzfdPo)** produced by 
 [Prof. Volker Dellwo](https://www.liri.uzh.ch/en/aboutus/Volker-Dellwo.html)
 
 # Question, Feedback and Contribution
-We appreciate any question, feedback and contribution to the code. 
-
-For direct question and feedback, you can find the e-mail address and contact the responsible author. If you'd like to directly contribute to the code, please refer to the [general contribution guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+We appreciate any question, feedback and contribution to the code, please refer to the [general contribution guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for more information.
 
 # License
 This software is lisenced under the copyleft license GPL v3, meaning that any copy of modification of the original code must also be released under the GPL v3.
