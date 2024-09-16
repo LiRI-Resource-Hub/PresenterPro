@@ -20,7 +20,7 @@ This short **[video](https://www.youtube.com/watch?v=fjlFNOzfdPo)** produced by 
 - Method 2: Execute the script `setup.praat` that’s inside the directory. \
   **Note**: if using this method, the plugin folder should not be moved somewhere else after executing the script, otherwise it couldn’t be found next time. Therefore highly recommend to use method 1.
 
-<div style="text-align: center;">
+<div align="center">
   <img src="./images/Praat_objects_PresenterPro.png" alt="Entry of PresenterPro in Praat." style="width: 50%;">
 </div>
 
